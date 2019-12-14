@@ -16,5 +16,6 @@
 |27 ноября 2019|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)|
 |30 ноября 2019|[практическое занятие по комплингвистике: морфоанализ на примере русского языка: pymorphy, mystem и др](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.ipynb)|
 |7 декабря 2019|[практическое занятие по комплингвистике: синтаксический анализ](https://github.com/sjut/DPO_Materials/tree/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)|
+|14 декабря 2019|начало работы над проектами|
 
 
