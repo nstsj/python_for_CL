@@ -1,25 +1,43 @@
 # python_for_CL
 материалы курса по питону для дпо-программы "[компьютерная лингвистика](https://addenda.hse.ru/computational-linguistics)" (2020-2021)
 
-Расписание: 
+## Расписание: 
 
-|дата|тема|
-|-|-|
-|14 октября 2020|[знакомство с Python, git, PyCharm, Colab, Jupyter Notebook](https://github.com/nstsj/python_for_CL/tree/master/class1)|
-|21 октября 2020|[операторы ввода/вывода(print,display,input), списки, циклы](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|
-|28 октября 2020|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/blob/master/sets,%20tuples,%20dicts/30Oct_2019.ipynb)|
-||[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)|
-||[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)|
-||[регулярные выражения в Python](https://github.com/nstsj/python_for_CL/tree/master/regexes)|
-||[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)|
-||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)|
-||[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)|
-||[практическое занятие по комплингвистике: морфоанализ на примере русского языка: pymorphy, mystem и др](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.ipynb)|
-||[практическое занятие по комплингвистике: синтаксический анализ](https://github.com/sjut/DPO_Materials/tree/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)|
-||начало работы над проектами|
-||обсуждение проектов|
-||финальная консультация по проектам|
-||защита проектов|
+|№ занятия|дата|тема|
+|-|-|-|
+|1|14 октября 2020|[знакомство с Python, git, PyCharm, Colab, Jupyter Notebook](https://github.com/nstsj/python_for_CL/tree/master/class1)|
+|2|21 октября 2020|[операторы ввода/вывода(print,display,input), списки, циклы](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|
+|3|28 октября 2020|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/blob/master/sets,%20tuples,%20dicts/30Oct_2019.ipynb)|
+|4||[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)|
+|5||[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)|
+|6||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)|
+|7||[регулярные выражения в Python](https://github.com/nstsj/python_for_CL/tree/master/regexes)|
+|8||[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)|
+|9||препроцессинг данных + NLTK|
+|10||[библиотеки для морфоанализа: pymorphy, mystem и др](https://github.com/nstsj/python_for_CL/tree/master/morpho-analysis)|
+|11||[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)|
+|12||анализ данных и визуализация|
+|13||ООП в Питоне: классы и объекты|
 
 
+## Полезные ссылки:
+
+* [ссылка на форму для вопросов/фидбеков](https://forms.gle/3aycLhcVfpPmZCA77)
+* [установка Python](https://www.python.org/downloads/)  <br>
+  **IDE**
+* [как работать в PyCharm](https://py-charm.blogspot.com/2017/09/blog-post.html)
+* [как работать в jupyter notebook](https://devpractice.ru/python-lesson-6-work-in-jupyter-notebook/)
+* [как работать в Google Colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c) <br>
+  **git**
+* [где скачать гит](https://git-scm.com/downloads)
+* [гайд по установке git на компьютер](https://githowto.com/ru)
+* [руководства по git на все случаи жизни](https://guides.github.com/) <br>
+  **Python**
+* [введение для людей без опыта программирования](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+* [интерактивный учебник по Python](https://snakify.org/ru)
+* [тренажер с упражнениями на все темы](https://www.w3resource.com/python-exercises/python-basic-exercises.php) <br>
+  **текстовые редакторы**
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Notepad++](https://notepad-plus-plus.org/downloads/v7.7.1/)
+* [SublimeText](https://www.sublimetext.com/3) <br>
 
