@@ -35,7 +35,9 @@
 * [установка Python](https://www.python.org/downloads/)
 * [введение для людей без опыта программирования](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 * [интерактивный учебник по Python](https://snakify.org/ru)
-* [тренажер с упражнениями на все темы](https://www.w3resource.com/python-exercises/python-basic-exercises.php) <br>
+* [тренажер с упражнениями на все темы](https://www.w3resource.com/python-exercises/python-basic-exercises.php) 
+* [тренажер по Python и математике от Stepik](https://stepik.org/course/3356/promo#toc) <br>
+
   **текстовые редакторы**
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/v7.7.1/)
