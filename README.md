@@ -7,8 +7,8 @@
 |-|-|-|
 |1|14 октября 2020|[знакомство с Python, git, PyCharm, Colab, Jupyter Notebook](https://github.com/nstsj/python_for_CL/tree/master/class1)|
 |2|21 октября 2020|[операторы ввода/вывода(print,display,input), списки, циклы](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|
-|3|28 октября 2020|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/blob/master/sets,%20tuples,%20dicts/30Oct_2019.ipynb)|
-|4||[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)|
+|3|26 октября 2020|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/blob/master/sets,%20tuples,%20dicts/30Oct_2019.ipynb)|
+|4|28 октября 2020|[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)|
 |5||[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)|
 |6||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)|
 |7||[регулярные выражения в Python](https://github.com/nstsj/python_for_CL/tree/master/regexes)|
