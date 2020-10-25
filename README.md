@@ -7,17 +7,17 @@
 |-|-|-|
 |1|14 октября 2020|[знакомство с Python, git, PyCharm, Colab, Jupyter Notebook](https://github.com/nstsj/python_for_CL/tree/master/class1)|
 |2|21 октября 2020|[операторы ввода/вывода(print,display,input), списки, циклы](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|
-|3|26 октября 2020|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/blob/master/sets,%20tuples,%20dicts/30Oct_2019.ipynb)|
+|3|26 октября 2020|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/tree/master/sets%2C%20tuples%2C%20dicts)|
 |4|28 октября 2020|[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)|
 |5||[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)|
 |6||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)|
 |7||[регулярные выражения в Python](https://github.com/nstsj/python_for_CL/tree/master/regexes)|
 |8||[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)|
-|9||препроцессинг данных + NLTK|
+|9||препроцессинг данных + NLTK||
 |10||[библиотеки для морфоанализа: pymorphy, mystem и др](https://github.com/nstsj/python_for_CL/tree/master/morpho-analysis)|
 |11||[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)|
-|12||анализ данных и визуализация|
-|13||ООП в Питоне: классы и объекты|
+|12||анализ данных и визуализация||
+|13||ООП в Питоне: классы и объекты||
 
 
 ## Полезные ссылки:
