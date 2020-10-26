@@ -12,7 +12,7 @@
 |1|14 октября 2020|[знакомство с Python, git, PyCharm, Colab, Jupyter Notebook](https://github.com/nstsj/python_for_CL/tree/master/class1)|28 октября 2020|
 |2|21 октября 2020|[операторы ввода/вывода(print,display,input), списки, циклы](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|4 ноября 2020|
 |3|26 октября 2020|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/tree/master/sets%2C%20tuples%2C%20dicts)|11 ноября 2020|
-|4|28 октября 2020|[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)||
+|4|28 октября 2020|[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)|11 ноября 2020|
 |5||[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)||
 |6||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
 |7||[регулярные выражения в Python](https://github.com/nstsj/python_for_CL/tree/master/regexes)||
