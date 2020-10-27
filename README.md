@@ -26,15 +26,18 @@
 
 ## Полезные ссылки:
 
-* [ссылка на форму для вопросов/фидбеков](https://forms.gle/3aycLhcVfpPmZCA77)  <br>
+* [ссылка на форму для вопросов/фидбеков](https://forms.gle/3aycLhcVfpPmZCA77)<br>
+
   **IDE**
 * [как работать в PyCharm](https://py-charm.blogspot.com/2017/09/blog-post.html)
 * [как работать в jupyter notebook](https://devpractice.ru/python-lesson-6-work-in-jupyter-notebook/)
 * [как работать в Google Colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c) <br>
+
   **git**
 * [где скачать гит](https://git-scm.com/downloads)
 * [гайд по установке git на компьютер](https://githowto.com/ru)
 * [руководства по git на все случаи жизни](https://guides.github.com/) <br>
+
   **Python**
 * [установка Python](https://www.python.org/downloads/)
 * [введение для людей без опыта программирования](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
