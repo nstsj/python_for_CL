@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-#решение домашней работыи. Оформление в отдельную программу, не в тетради.
-
 # Test phrase: Съешь же ещё этих мягких французских булок да выпей чаю
 charbase = {"а": "a", "б": "b", "в'": "w", "в": "v", "г": "g", "д": "d",
             "е": "e", "ё": "yo", "ж": "zh", "з": "z", "и": "i", "й": "i",
@@ -15,14 +13,18 @@ charbase = {"а": "a", "б": "b", "в'": "w", "в": "v", "г": "g", "д": "d",
 while True:
     original_word = input("Введите слово: (введите пустую строку для прекращения программы) ")
     if original_word == "":
+        print("Вы ввели пустую строку. Прекращаю программу.")
         break
+    if original_word.isspace():
+        print("Вы ввели только пробел столько раз:", str(len(original_word))+".", "Нет смысла так продолжать!")
+        break
+    print("\n", "Вы ввели:", original_word, "\n")
 
-    print("Вы ввели:", original_word)
     original_word = list(original_word)
     translit = []
 
     for i in original_word:
-        if i not in charbase:
+        if i.lower() not in charbase:
             translit.append(i)
             print(i+":", "Предупреждаю! Кажется, это не русский алфавит.")
             continue
