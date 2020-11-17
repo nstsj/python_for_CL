@@ -1,6 +1,4 @@
 # генератор паролей
-from typing import Any
-
 import random
 import string
 
