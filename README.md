@@ -18,7 +18,7 @@
 |7|2 декабря 2020|[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)|16 декабря 2020|
 |8|9 декабря 2020|[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)|23 декабря 2020|
 |9|16 декабря 2020|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)||
-|10|23 декабря 2020|препроцессинг данных + NLTK|||
+|10|23 декабря 2020|[препроцессинг данных + NLTK](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb) (прошло 31.11.2020 в рамках занятий курса комплингвистики)|||
 |11|30 декабря 2020|[библиотеки для морфоанализа: pymorphy, mystem и др](https://github.com/nstsj/python_for_CL/tree/master/morpho-analysis)||
 |12|12 января 2021|[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
 |13|19 января 2021|анализ данных и визуализация|||
