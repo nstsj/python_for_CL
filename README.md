@@ -50,3 +50,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/v7.7.1/)
 * [SublimeText](https://www.sublimetext.com/3) <br>
+
+
+  **список библиотек для NLP**
+* [awesome list](https://github.com/keon/awesome-nlp#user-content-python)
