@@ -18,11 +18,12 @@
 |7|2 декабря 2020|[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)|16 декабря 2020|
 |8|9 декабря 2020|[частотный анализ текстов и TF-IDF](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/freq_analysis_tf_idf.ipynb)|23 декабря 2020|
 |9|16 декабря декабря 2020|[библиотеки для морфоанализа: pymorphy, mystem и др](https://github.com/nstsj/python_for_CL/tree/master/morpho-analysis)||
-|10|23 декабря 2020|[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
-|11|30 декабря 2020|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)||
-|12|12 января 2021|[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
-|13|19 января 2021|анализ данных и визуализация|||
-|14|26 января 2021|ООП в Питоне: классы и объекты|||
+|10|19 декабря 2020|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)||
+|11|23 декабря 2020|марковские цепи для генерации текстов|||
+|12|30 декабря 2020|[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
+|13|20 января 2021|[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
+|14||визуализация данных в Питоне|||
+|15|27 января 2021|ООП в Питоне: классы и объекты|||
 
 
 ## Полезные ссылки:
