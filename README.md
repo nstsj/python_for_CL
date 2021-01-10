@@ -20,10 +20,10 @@
 |9|16 декабря декабря 2020|[библиотеки для морфоанализа: pymorphy, mystem и др](https://github.com/nstsj/python_for_CL/tree/master/morpho-analysis)||
 |10|19 декабря 2020|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)||
 |11|23 декабря 2020|марковские цепи для генерации текстов|||
-|12|30 декабря 2020|[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
-|13|20 января 2021|[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
+|12||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
+|13||[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
 |14||визуализация данных в Питоне|||
-|15|27 января 2021|ООП в Питоне: классы и объекты|||
+|15||ООП в Питоне: классы и объекты|||
 
 
 ## Полезные ссылки:
