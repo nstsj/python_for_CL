@@ -21,10 +21,10 @@
 |10|19 декабря 2020|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/tree/master/data_parsers)||
 |11|23 декабря 2020|[марковские цепи для генерации текстов](https://github.com/nstsj/python_for_CL/tree/master/markov_textgen)|||
 |12|20 января 2021|[синтаксические анализаторы](https://github.com/nstsj/python_for_CL/tree/master/syntax_parsing)||
-|13||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
-|13||[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
-|14||визуализация данных в Питоне|||
-|15||ООП в Питоне: классы и объекты|||
+|||[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
+|||[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
+|||визуализация данных в Питоне|||
+|||ООП в Питоне: классы и объекты|||
 
 
 ## Полезные ссылки:
