@@ -22,9 +22,8 @@
 |11|23 декабря 2020|[марковские цепи для генерации текстов](https://github.com/nstsj/python_for_CL/tree/master/markov_textgen)|||
 |12|20 января 2021|[синтаксические анализаторы](https://github.com/nstsj/python_for_CL/tree/master/syntax_parsing)||
 |13|27 января 2021|[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
-|||[частотные списки и n-граммы](https://github.com/nstsj/python_for_CL/tree/master/ngrams)||
-|||визуализация данных в Питоне|||
-|||ООП в Питоне: классы и объекты|||
+|14|03 февраля 2021|[визуализация данных в Питоне](https://github.com/nstsj/python_for_CL/blob/master/dataviz/python_viz_mpl_seaborn.ipynb)||
+|15||ООП в Питоне: классы и объекты|||
 
 
 ## Полезные ссылки:
