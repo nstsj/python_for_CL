@@ -23,7 +23,8 @@
 |12|20 января 2021|[синтаксические анализаторы](https://github.com/nstsj/python_for_CL/tree/master/syntax_parsing)||
 |13|27 января 2021|[pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/tree/master/pandas)||
 |14|03 февраля 2021|[визуализация данных в Питоне](https://github.com/nstsj/python_for_CL/blob/master/dataviz/python_viz_mpl_seaborn.ipynb)||
-|15||ООП в Питоне: классы и объекты|||
+|15|08 февраля 2021|ООП в Питоне: классы и объекты. Часть 1|||
+|15|15 февраля 2021|ООП в Питоне: классы и объекты. Часть 2|||
 
 
 ## Полезные ссылки:
