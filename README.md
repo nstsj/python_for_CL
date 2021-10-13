@@ -1,5 +1,5 @@
 # python_for_CL
-материалы курса по Python для дпо-программы "[компьютерная лингвистика](https://addenda.hse.ru/computational-linguistics)" (2020-2021)
+материалы курса по Python для дпо-программы "[компьютерная лингвистика](https://addenda.hse.ru/computational-linguistics)" (2021-2022)
 
 **формула оценки за курс**<br>
 30%(ДЗ) + 70%(финальный проект)<br>
