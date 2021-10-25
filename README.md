@@ -10,9 +10,9 @@
 |№ занятия|дата|тема|
 |-|-|-|
 |1|13 октября 2021|[знакомство с Python, git, PyCharm, Colab, Jupyter Notebook](https://github.com/nstsj/python_for_CL/tree/master/class1)|
-|2|20 октября 2021|[операторы ввода/вывода(print,display,input), списки, циклы](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|
-|3||[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/tree/master/sets%2C%20tuples%2C%20dicts)|
-|4||[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/tree/master/sets%2C%20tuples%2C%20dicts)|
+|2|20 октября 2021|[операторы ввода/вывода(print,display,input)](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|
+|3|25 октября 2021|[списки, циклы](https://github.com/nstsj/python_for_CL/tree/master/io%2C%20lists%2C%20cycles)|
+|4|27 октября 2021|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/tree/master/sets%2C%20tuples%2C%20dicts)|
 |5||[работа с функциями](https://github.com/nstsj/python_for_CL/tree/master/functions)|
 |6||[регулярные выражения в Python](https://github.com/nstsj/python_for_CL/tree/master/regexes)|
 |7||[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/tree/master/files%20and%20system)|
