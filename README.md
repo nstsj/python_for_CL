@@ -14,7 +14,7 @@
 |3|25 октября 2021|[списки, циклы](https://github.com/nstsj/python_for_CL/blob/master/notebooks/lists%2Ccycles.ipynb)|
 |4|27 октября 2021|[множества, кортежи, словари](https://github.com/nstsj/python_for_CL/blob/master/notebooks/tuples%2C%20sets%2C%20dicts.ipynb)|
 |5|10 ноября 2021|[работа с функциями](https://github.com/nstsj/python_for_CL/blob/master/notebooks/Python%20functions.ipynb)|
-|6||регулярные выражения в Python|
+|6|24 ноября 2021|регулярные выражения в Python|
 |7||работа с файлами, модуль os|
 |8||частотный анализ текстов и TF-IDF|
 |9||библиотеки для морфоанализа: pymorphy, mystem и др|
