@@ -17,8 +17,8 @@
 |6|24 ноября 2021|[регулярные выражения в Python](https://github.com/nstsj/python_for_CL/blob/master/notebooks/regexes_class.ipynb)|
 |7|1 декабря 2021|[работа с файлами, модуль os](https://github.com/nstsj/python_for_CL/blob/master/notebooks/files_OS.ipynb)|
 |8|8 декабря 2021|[разбор практических задач + частотный анализ текстов и TF-IDF](https://github.com/nstsj/python_for_CL/blob/master/notebooks/freq_analysis_tf_idf.ipynb)|
-|9|15 декабря 2021|анонс проектов + pandas, работа с датасетами.|
-|10|20 декабря 2021|собираем корпус: парсеры,краулеры,скрепперы|
+|9|15 декабря 2021|[анонс проектов + pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/blob/master/notebooks/pandas.ipynb)|
+|10|20 декабря 2021|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/blob/master/notebooks/get_your_dataset.ipynb)|
 |11|22 декабря 2021|обсуждение проектов|
 |12|||
 |13|||
