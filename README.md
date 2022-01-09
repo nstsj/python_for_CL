@@ -20,7 +20,7 @@
 |9|15 декабря 2021|[анонс проектов + pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/blob/master/notebooks/pandas.ipynb)|
 |10|20 декабря 2021|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/blob/master/notebooks/get_your_dataset.ipynb)|
 |11|22 декабря 2021|обсуждение проектов|
-|12|||
+|12|12 января 2022|визуализация данных|
 |13|||
 |14|||
 |15|||
