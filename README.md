@@ -20,10 +20,10 @@
 |9|15 декабря 2021|[анонс проектов + pandas, работа с датасетами](https://github.com/nstsj/python_for_CL/blob/master/notebooks/pandas.ipynb)|
 |10|20 декабря 2021|[собираем корпус: парсеры,краулеры,скрепперы](https://github.com/nstsj/python_for_CL/blob/master/notebooks/get_your_dataset.ipynb)|
 |11|22 декабря 2021|обсуждение проектов|
-|12|12 января 2022|визуализация данных|
-|13|15 января 2022||
-|14|18 января 2022||
-|15|22 января 2022||
+|12|19 января 2022|[синтаксический анализ](https://github.com/nstsj/python_for_CL/blob/master/notebooks/syntactic_parsers.ipynb)|
+|13|22 января 2022|[визуализация данных](https://github.com/nstsj/python_for_CL/blob/master/notebooks/python_viz_mpl_seaborn.ipynb)|
+|14|29 января 2022|networkx|
+|15|2 февраля 2022|OOП|
 
 
 ## Полезные ссылки:
